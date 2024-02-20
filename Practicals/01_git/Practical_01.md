@@ -42,7 +42,7 @@
    - Students to fill the lines below, commit and push the changes
    
          Year of study:
-         Number of lectures today:
+         Number of lectures today: Hell lot
 
 # Other tools
 
